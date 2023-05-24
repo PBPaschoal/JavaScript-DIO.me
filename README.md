@@ -1,6 +1,8 @@
 # JavaScript
 * Praticando básico de JS
 
+<img src="https://github.com/PBPaschoal/JS-Praticando/blob/main/Imagens/JS-Logo.png?raw=true" alt="logo" width="150px">
+
 ## Estudando JavaScript
 ### Recursos:
 * DIO; Udemy; YouTube; Apostilas; Livros
