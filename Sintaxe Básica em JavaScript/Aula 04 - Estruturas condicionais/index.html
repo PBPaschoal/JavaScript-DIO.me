@@ -170,7 +170,74 @@
 			}
 	</code></pre>
 
-	12 minutos
+	<h3>For/of</h3>
+	<p>
+		Funciona como uma repetição a partir de um valor:
+	</p>
+
+	<pre><code>
+		<strong>
+			for([indice] of [array]) {
+				declaracao
+			}
+		</strong>
+	</code></pre>
+
+		<br>Exemplo:
+
+	<pre><code>
+		<strong>var</strong> array = ['valor1','valor2','valor3','valor4']
+			<strong>for</strong>(i <strong>of</strong> array){
+				<strong>console.log</strong>(i);
+			}
+	</code></pre>
+
+	<p>
+		O <strong>For/of</strong> não funciona com objetos pois as propriedades variam, diferentes do índice em um array que sempre serão números inteiros.
+		<br>
+		Mas e se eu quiser pegar o valor mesmo assim?
+		<br>Exemplo:
+
+		<pre><code>
+			<strong>for</strong>(i <strong>of</strong> object.propriedade){
+				<strong>console.log</strong>(i);
+			}
+		</code></pre>
+		Porém, cada caractere dentro do valor será impresso em linhas separadas.
+	</p>
+
+	<h3>While</h3>
+	<p>
+		Executa uma instrução <strong>"enquanto"</strong> determinada condição for verdadeira, a verificação é feita antes da execução;
+		<br>Exemplo:
+
+	<pre><code>
+		<strong>var</strong> a = 0;
+		<strong>while</strong> (a < 10){
+			a++;
+			<strong>console.log</strong>(a);
+		}
+	</code></pre>
+
+	Como ler: enquanto a variável <strong>a</strong> for menor que 10, ela vai receber mais um e imprimir no console.
+	</p>
+
+	<h3>Do/while</h3>
+
+	<p>
+		Executa uma instrução <strong>"até que</strong> determinada condição seja falsa, a verificação é feita depois da execução;
+		<br>Exemplo:
+
+		<pre><code>
+			<strong>var</strong> a = 0;
+			<strong>do</strong> {
+				a++;
+				console.log(a);
+			} <strong>while</strong> (a < 10)
+		</code></pre>
+
+		Como ler: a variável <strong>a</strong> vai receber mais um e primir no console <strong>até que</strong> seu valor chegue a 10.
+	</p>
 
 	<script src="./js/script.js"></script>
 </body>

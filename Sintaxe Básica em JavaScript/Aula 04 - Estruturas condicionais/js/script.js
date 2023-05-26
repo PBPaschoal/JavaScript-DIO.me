@@ -57,3 +57,37 @@ let object = { propriedade1: 'valor1', propriedade2: 'valor2', propriedad3: 'val
 for (let indice = 0; indice < array3.length; indice++) {
 	console.log(indice);
 }
+
+// for/in executa repetição a partir de uma propriedade 
+// com array
+for (let i in array3) {
+	console.log(i);
+}
+
+// com object
+for (i in object) {
+	console.log(i);
+}
+
+// com for/of - executa repetição a partir de valor
+for (i of array3) {
+	console.log(i);
+}
+
+// for/of com object
+for (i of object.propriedade1) {
+	console.log(i);
+}
+
+// while
+var a = 0;
+while (a < 10) {
+	a++;
+	console.log(a);
+}
+
+// do/while
+do {
+	a++;
+	console.log(a);
+} while (a < 10)
