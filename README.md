@@ -1,5 +1,5 @@
 # JavaScript
-* Praticando básico de JS
+* Básico - Intermediário - Avançado
 
 <img src="https://github.com/PBPaschoal/JS-Praticando/blob/main/Imagens/JS-Logo.png?raw=true" alt="logo" width="150px">
 
