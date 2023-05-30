@@ -3,6 +3,26 @@
 
 <img src="https://github.com/PBPaschoal/JS-Praticando/blob/main/Imagens/JS-Logo.png?raw=true" alt="logo" width="150px">
 
+# Sobre os cursos(resumo):
+Curso: Sintaxe Básica em JS
+- JavaScript;
+- Variaveis e seus valores;
+- Vetores e objetos;
+- Estruturas condicionais;
+- Funções e suas particulridades;
+- Aprofundando em funções.
+
+Curso: Tornando Páginas Web Interativas com JavaScript
+- O que é JavaScript;
+- Operações básicas;
+- Condicionais;
+- Tipos de variáveis;
+- Laços de repetições;
+- Arrow functions;
+- Arrays;
+- Funcionalidades ES6: filter, find, findIndex, reduce, soma & every
+
+
 ## Estudando JavaScript
 ### Recursos:
 * DIO; Udemy; YouTube; Apostilas; Livros
