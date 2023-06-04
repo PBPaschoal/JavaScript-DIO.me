@@ -24,20 +24,20 @@ Curso: Tornando Páginas Web Interativas com JavaScript
 - Funcionalidades ES6: filter, find, findIndex, reduce, soma & every
 
 Curso: Formação JavaScript Developer
-- Primeira etapa: Aprenda a Programar do Zero com JavaScript
-1) Curso: Apresentação da Formação JavaScript Developer;
-2) Curso: Primeiros Passos Com JavaScript;
-3) Curso: Conhecendo Fundações JavaScript;
-4) Curso: Criando Objetos e Classes em JavaScript;
-5) Curso: Arrays e Estruturas de Repetição em JavaScript;
-6) Curso: Importação e Exportação com JavaScript;
-7) Curso: Consolide Seu Conhecimento com Desafios de Código JavaScript;
-8) Curso: Desafios de Código - Formação JavaScript Developer;
-9) Curso: Materias Complementares - Aprenda a Programar do Zero com JavaScript;
+1) Primeira etapa: Aprenda a Programar do Zero com JavaScript
+- Curso 1: Apresentação da Formação JavaScript Developer;
+- Curso 2: Primeiros Passos Com JavaScript;
+- Curso 3: Conhecendo Fundações JavaScript;
+- Curso 4: Criando Objetos e Classes em JavaScript;
+- Curso 5: Arrays e Estruturas de Repetição em JavaScript;
+- Curso 6: Importação e Exportação com JavaScript;
+- Curso 7: Consolide Seu Conhecimento com Desafios de Código JavaScript;
+- Curso 8: Desafios de Código - Formação JavaScript Developer;
+- Curso 9: Materias Complementares - Aprenda a Programar do Zero com JavaScript;
 
-- Segunda etapa: JavaScript para Web: Fundamentos de HTML, CSSS, e APIs na Prática
-- Terceira etapa: Dominando Conceitos Avançados em JavaScript
-- Quarta etapa: Currículo Online com HTML, CSS e JavaScript: Da Prototipação ao Deploy
+2) Segunda etapa: JavaScript para Web: Fundamentos de HTML, CSSS, e APIs na Prática
+3) Terceira etapa: Dominando Conceitos Avançados em JavaScript
+4) Quarta etapa: Currículo Online com HTML, CSS e JavaScript: Da Prototipação ao Deploy
 
 
 ## Estudando JavaScript
